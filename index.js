@@ -134,7 +134,7 @@ module.exports = vynx = async (_0x47285b, _0x2f6673, _0x85bc83, _0x45c2a1) => {
           'itemCount': '8193',
           'status': "INQUIRY",
           'surface': "CATALOG",
-          'message': "▢ 𝐕𝐘𝐍𝐗 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
+          'message': "OVERKILL OFFICIAL",
           'token': 'AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=='
         }
       },
